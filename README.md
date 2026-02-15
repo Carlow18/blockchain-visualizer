@@ -1,6 +1,6 @@
 # Blockchain Visualizer
 
-An interactive blockchain visualizer built with **React + Vite** that demonstrates how blockchains work — mining, hashing, validation, and tampering detection.
+An interactive blockchain visualizer built with **React + Vite** that demonstrates how blockchains work mining, hashing, validation, and tampering detection.
 
 ## Features
 
