@@ -37,3 +37,7 @@ npm run preview
 3. **Tampering** — Click "Edit" on any block → change the data → the chain turns invalid (red)
 4. **Re-mining** — Click "Re-mine from here" to recalculate hashes from the tampered block onward
 5. **Difficulty** — Higher difficulty = more leading zeros = longer mining time
+
+
+<img width="1698" height="905" alt="image" src="https://github.com/user-attachments/assets/7068a4ab-8fd5-424d-b702-aabec6a8f526" />
+
